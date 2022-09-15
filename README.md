@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @willmason76
 - 👀 I’m interested in deploying intelligent systems into new areas of commerce.
-- 🌱 I’m currently learning python through the M&S program at UCF.
+- 🌱 I’m hoping to lear python through the M&S program at UCF.
 - 💞️ I’m looking to collaborate on anything I can.
 - 📫 How to reach me: I'll get back to you on that...
 
