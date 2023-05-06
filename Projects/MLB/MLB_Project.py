@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import warnings
 warnings.filterwarnings('ignore')
-'''
+
 start = 2002
 end = 2022
 
@@ -122,7 +122,7 @@ print(pd.Series(rr.coef_, index = new_predictors).sort_values()) #this should be
 diff = predictions['actual'] - predictions['prediction']
 merged = predictions.merge(batting, left_index = True, right_index = True)
 merged['diff'] = (predictions['actual'] - predictions['prediction']).abs()
-print(merged[['IDfg', 'Season', 'Name', 'WAR', 'Next_WAR', 'diff']].sort_values(['diff']))'''
+print(merged[['IDfg', 'Season', 'Name', 'WAR', 'Next_WAR', 'diff']].sort_values(['diff']))
 #the above four lines just measures the absolute value of the difference between the actual WAR and our predicted WAR;
 #if they have a big diff then the player is being systematically miscategorized; how to display in dashboard (bottom & top 10?)
 
@@ -131,8 +131,8 @@ print(merged[['IDfg', 'Season', 'Name', 'WAR', 'Next_WAR', 'diff']].sort_values(
 
 #pybaseball.cache.enable() #how does this work?
 
-df_2 = pd.read_csv('pitch_stuff.csv')
-'''
+df_2 = pd.read_excel('pitch_stuff.xlsb') #note this file was too big to upload, get directly from statcast
+
 df_3 = df_2.dropna(subset = ['release_spin_rate', 'release_extension', 'effective_speed'])
 fig, ax = plt.subplots(figsize = (8, 8))
 sns.despine(fig, left = True, bottom = True)
@@ -154,7 +154,7 @@ sns.scatterplot(x = 'release_pos_x', y = 'release_pos_z',
                 ax = ax)
 ax.set_title('Release Speed as a function of Release Position')
 plt.show()
-'''
+
 df_3 = df_2.dropna(subset = ['launch_speed', 'launch_angle', 'type_num'])
 fig, ax = plt.subplots(figsize = (8, 8))
 sns.despine(fig, left = True, bottom = True)
