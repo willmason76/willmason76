@@ -1,5 +1,5 @@
 # Crime Prediction in the United States
-:us:
+🇺🇸
 
 
 The combination of compute commoditization, open source algorithms, and the availability of city specific crime data has made the reality of spatio-temporal crime prediction a reality for law enforcement. This file is an overview of a research project meant to explore the limits of accuracy for predicting future violent crimes. 
