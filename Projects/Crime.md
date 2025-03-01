@@ -1,15 +1,4 @@
-CRIME
+####CRIME
+The combination of compute commoditization, open source algorithms, and the availability of city specific crime data has made the reality of spatio-temporal crime prediction a reality for law enforcement. This file is an overview of a research project meant to explore the limits of accuracy for predicting future violent crimes. 
 
-## Description
-A brief overview of what this project or folder is about.
-
-## Folder Structure
-- `folder1/` - Description of what's inside.
-- `folder2/` - Another section of the project.
-
-## How to Use
-Instructions on how someone should use or navigate this folder.
-
-## Additional Notes
-Any extra information or references.
-
+Four cities were processed, evaluated and visualized, and the results were in line with the leading publicly available research papers. Here we present our methods and results.
