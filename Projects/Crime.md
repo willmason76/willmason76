@@ -21,8 +21,7 @@ Our data is organized in shape (space, time, features), and we use a traditional
 For evaluation, we use the custom Area Under the Curve metric described above, where we treat a correct prediction if a ground truth y occurred within one timestep backward or forward from yhat.
 
 AUC for Las Vegas
-![Crime](https://github.com/willmason76/willmason76/blob/main/ROC.png)
-<img src="https://raw.githubusercontent.com/willmason76/willmason76/main/ROC.png" alt="Crime" width="200" height="100">
+<img src="https://raw.githubusercontent.com/willmason76/willmason76/main/ROC.png" alt="Crime" width="500" height="500">
 
 
 
