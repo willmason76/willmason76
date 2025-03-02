@@ -8,6 +8,17 @@ Four cities were processed, evaluated and visualized, and the results were in li
 
 Our data is organized in shape (space, time, features), and we use a traditional Recurrent Neural Network, in this case a ConvLSTM2D model. While new architectures such as transformers might in theory allow for temporal tendencies to be better learned over longer context windows, that decision comes with the drawback of having to collapse dimensions to fit within that structure, losing some of the learnable memory (fix this).
 
-
-
 ![Crime](https://github.com/willmason76/willmason76/blob/main/algo.png)
+
+## Results
+
+For evaluation, we use the custom Area Under the Curve metric described above, where we treat a correct prediction if a ground truth y occurred within one timestep backward or forward from yhat.
+
+AUC for Las Vegas
+![Crime](https://github.com/willmason76/willmason76/blob/main/ROC.png)
+
+AUC for New Orleans
+![Crime](https://github.com/willmason76/willmason76/blob/main/seven_and_two.png)
+
+## Visualizations
+
