@@ -18,15 +18,13 @@ Our data is organized in shape (space, time, features), and we use a traditional
 
 ## Results
 
-For evaluation, we use the custom Area Under the Curve metric described above, where we treat a correct prediction if a ground truth y occurred within one timestep backward or forward from yhat.
+For evaluation, we use the custom Area Under the Curve (AUC) score described above, where we treat a correct prediction if a ground truth y occurred within one timestep backward or forward from $ \hat{y} $.
 
 AUC for Las Vegas
-<img src="https://raw.githubusercontent.com/willmason76/willmason76/main/ROC.png" alt="Crime" width="500" height="500">
-
-
-
-AUC for New Orleans
-![Crime](https://github.com/willmason76/willmason76/blob/main/seven_and_two.png)
+<div style="display: flex; align-items: center;">
+    <img src="https://raw.githubusercontent.com/willmason76/willmason76/main/ROC.png" alt="Crime 1" width="500" height="800">
+    <img src="https://raw.githubusercontent.com/willmason76/willmason76/main/seven_and_two.png" alt="Crime 2" width="500" height="800">
+</div>
 
 ## Visualizations
 
