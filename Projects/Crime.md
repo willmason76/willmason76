@@ -22,8 +22,8 @@ For evaluation, we use the custom Area Under the Curve (AUC) score described abo
 
 AUC for Las Vegas
 <div style="display: flex; align-items: center;">
-    <img src="https://raw.githubusercontent.com/willmason76/willmason76/main/ROC.png" alt="Crime 1" width="300" height="300">
-    <img src="https://raw.githubusercontent.com/willmason76/willmason76/main/seven_and_two.png" alt="Crime 2" width="300" height="300">
+    <img src="https://raw.githubusercontent.com/willmason76/willmason76/main/ROC.png" alt="Crime 1" width="500" height="400">
+    <img src="https://raw.githubusercontent.com/willmason76/willmason76/main/seven_and_two.png" alt="Crime 2" width="500" height="400">
 </div>
 
 ## Visualizations
