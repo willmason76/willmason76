@@ -16,7 +16,7 @@ For evaluation, we use the custom Area Under the Curve metric described above, w
 
 AUC for Las Vegas
 ![Crime](https://github.com/willmason76/willmason76/blob/main/ROC.png)
-<img src="[ROC.png](https://github.com/willmason76/willmason76/blob/main/ROC.png)" alt="Crime" width="200" height="100">
+<img src="(https://github.com/willmason76/willmason76/blob/main/ROC.png)" alt="Crime" width="200" height="100">
 
 
 AUC for New Orleans
