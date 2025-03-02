@@ -6,7 +6,7 @@ Four cities were processed, evaluated and visualized, and the results were in li
 
 ## Data
 
-For each city, we use a representative dataset of reported crimes. This is in contrast to actual crimes that have been adjudicated through criminal court. To our knowledge, that dataset is not as easily to obtain, but theoretically you are balancing imperfections and bias in the criminal justice system versus those of citizens reporting criminal activity. We believe citizens are the better barometer, whether we have a choice in datasets or not. 
+For each city, we use a representative dataset of reported crimes. This is in contrast to actual crimes that have been adjudicated through criminal court. To our knowledge, that dataset is not available, but theoretically you are balancing imperfections and bias in the criminal justice system versus those of citizens reporting criminal activity. We believe citizens are the better barometer, whether we have a choice in datasets or not. 
 
 We set our target for violent crimes against the [FBI's Uniform Crime Report](https://ucr.fbi.gov/additional-ucr-publications/ucr_handbook.pdf) value. While some cities do better than others in labeling and segregating these values, our goal is to train and inference solely on UCR values < 10.
 
