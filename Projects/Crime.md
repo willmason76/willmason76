@@ -7,4 +7,4 @@ The combination of compute commoditization, open source algorithms, and the avai
 Four cities were processed, evaluated and visualized, and the results were in line with the leading publicly available research papers. Here we present our methods and results.
 
 ## Methods
-![Crime](algo.png)
+![Crime](https://github.com/willmason76/willmason76/blob/main/algo.png)
