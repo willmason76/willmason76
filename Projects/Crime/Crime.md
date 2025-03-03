@@ -28,3 +28,6 @@ AUC for Las Vegas
 
 ## Visualizations
 
+<video controls="" width="800" height="500" muted="" loop="" autoplay="">
+<source src="https://github.com/willmason76/willmason76/blob/main/Projects/Crime/" type="video/mp4">
+</video>
