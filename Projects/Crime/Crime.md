@@ -27,8 +27,4 @@ AUC for Las Vegas
     <img src="https://raw.githubusercontent.com/willmason76/willmason76/main/Projects/Crime/seven_and_two.png" alt="Crime 2" width="500" height="400">
 </div>
 
-## Visualizations
 
-<video controls="" width="800" height="500" muted="" loop="" autoplay="">
-<source src="https://github.com/willmason76/willmason76/blob/main/Projects/Crime/hm_cropped.mp4" type="video/mp4">
-</video>
