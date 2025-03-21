@@ -21,10 +21,9 @@ Our data is organized in shape (space, time, features), and we use a traditional
 
 For evaluation, we use the custom Area Under the Curve (AUC) score described above, where we treat a correct prediction if a ground truth y occurred within one timestep backward or forward from ŷ.
 
-AUC for Las Vegas
+Roc Curve & AUC for Four Cities
 <div style="display: flex; align-items: center;">
-    <img src="https://raw.githubusercontent.com/willmason76/willmason76/main/Projects/Crime/ROC.png" alt="Crime 1" width="500" height="400">
-    <img src="https://raw.githubusercontent.com/willmason76/willmason76/main/Projects/Crime/seven_and_two.png" alt="Crime 2" width="500" height="400">
+    <img src="https://raw.githubusercontent.com/willmason76/willmason76/main/Projects/Crime/ROC_combined.png" alt="Crime 1" width="500" height="400">
 </div>
 
 
