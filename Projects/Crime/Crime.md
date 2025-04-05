@@ -23,7 +23,7 @@ For evaluation, we use the custom Area Under the Curve (AUC) score described abo
 
 Roc Curve & AUC for Four Cities
 <div style="display: flex; align-items: center;">
-    <img src="https://raw.githubusercontent.com/willmason76/willmason76/main/Projects/Crime/ROC_combined.png" alt="Crime 1" width="500" height="400">
+    <img src="https://raw.githubusercontent.com/willmason76/willmason76/main/Projects/Crime/Figure_1.png" alt="Crime 1" width="500" height="400">
 </div>
 
 
