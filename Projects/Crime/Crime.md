@@ -1,3 +1,8 @@
+# Copyright (c) 2025 Will Mason
+# All rights reserved.
+# This file is part of @vegas_labs Crime Model and is not licensed for reuse, modification, or distribution.
+# Contact @vegas_labs or masonw1@unlv.nevada.edu for licensing information.
+
 # Vegas Labs - Crime Prediction in the United States 
 
 
@@ -26,4 +31,10 @@ Roc Curve & AUC for Four Cities
     <img src="https://raw.githubusercontent.com/willmason76/willmason76/main/Projects/Crime/Figure_1.png" alt="Crime 1" width="500" height="400">
 </div>
 
-See related .py files below for instructions
+
+Review instructions for each file before you run, needs to be in order:
+    1) tiling.py
+    2) weather_parse.py
+    3) data_pipe.py
+    4) train_test.py
+    5) plain_heatmap.py
