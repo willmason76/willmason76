@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @willmason76
-- 👀 I’m interested in deploying intelligent systems into new areas of commerce.
-- 🌱 I’m hoping to learn more about python.
-- 💞️ I’m looking to collaborate on anything I can.
-- 📫 How to reach me: I'll get back to you on that...
-
-<!---
-willmason76/willmason76 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Hi, I’m @willmason76
+- I’m an ML Researcher, legal and finance professional interested in deploying deep learning into new areas of commerce.
+- You can reach me @vegas_labs or masonw1@unlv.nevada.edu
