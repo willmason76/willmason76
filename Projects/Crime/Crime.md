@@ -1,7 +1,7 @@
 <small>Copyright (c) 2025 Will Mason.  
 All rights reserved.  
 This file is part of @vegas_labs Crime Model and is not licensed for reuse, modification, or distribution.  
-Contact @vegas_labs or masonw1@unlv.nevada.edu for licensing information.</small>
+Contact [Text to display](https://X.com/vegas_labs) or masonw1@unlv.nevada.edu for licensing information.</small>
 
 # Vegas Labs - Crime Prediction in the United States 
 
