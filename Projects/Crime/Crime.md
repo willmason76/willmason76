@@ -26,4 +26,4 @@ Roc Curve & AUC for Four Cities
     <img src="https://raw.githubusercontent.com/willmason76/willmason76/main/Projects/Crime/Figure_1.png" alt="Crime 1" width="500" height="400">
 </div>
 
-
+See related .py files below for instructions
