@@ -18,7 +18,7 @@ We set our target for violent crimes against the [FBI's Uniform Crime Report](ht
 
 ## Methods
 
-Our data is organized in shape (space, time, features), and we use a traditional Recurrent Neural Network, in this case a ConvLSTM2D model. While new architectures such as transformers might in theory allow for temporal tendencies to be better learned over longer context windows, that decision comes with the drawback of having to collapse dimensions to fit within that structure, losing some of the learnable memory (fix this).
+Our data is ultimately organized in shape (samples, timesteps, rows, columns, features), and we use a modified Recurrent Neural Network, in this case a ConvLSTM2D model. While new architectures such as transformers might in theory allow for temporal tendencies to be better learned over longer context windows, that decision comes with the drawback of having to collapse dimensions to fit within that structure, losing some of the learnable memory.
 
 ![Crime](https://github.com/willmason76/willmason76/blob/main/Projects/Crime/algo.png)
 
