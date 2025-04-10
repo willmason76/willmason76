@@ -32,9 +32,4 @@ Roc Curve & AUC for Four Cities
 </div>
 
 
-Review instructions for each file before you run, needs to be in order:  
-    1) tiling.py  
-    2) weather_parse.py  
-    3) data_pipe.py  
-    4) train_test.py  
-    5) plain_heatmap.py  
+Use contact information for licensing information and source code.
