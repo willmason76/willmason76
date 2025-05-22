@@ -5,9 +5,9 @@ city_runtimes = {'Los Angeles' : 1.79, 'New Orleans' : 0.65, 'Philadelphia' : 0.
 gpu_power_watts = 400                       # GPU power draw in watts
 cpu_other_power_watts = 300                 # Power draw for CPU, RAM, etc.
 pue = 1.8                                   # Power Usage Effectiveness (1.0 = ideal, 2.0 = inefficient)
-energy_rate = 0.06696                       # Electricity cost in $ per kWh
-A100_cost = 12500                           # Nvidia A100 GPU cost
-useful_life_years = 5                       # Useful life of the A100 GPU in years
+energy_rate = 0.06696                       # Electricity cost in $ per kWh per NVEnergy
+A100_cost = 12500                           # Nvidia A100 GPU cost, est.
+useful_life_years = 5                       # Useful life of the A100 GPU in years, est.
 runs_per_year = 365                         # Number of runs per year
 
 # === CALCULATIONS ===
